@@ -1,0 +1,30 @@
+{
+    "report_date": "2026-04-18 00:05:03",
+    "test_results": [
+        [
+            "CPU Identification",
+            "WARNING",
+            "Non-Intel: AMD Ryzen 7 5800X 8-Core Processor"
+        ],
+        [
+            "RAM Capacity",
+            "PASS",
+            "31GB Detected"
+        ],
+        [
+            "SSD Capacity",
+            "PASS",
+            "23.2% used of total 190GB"
+        ],
+        [
+            "CPU Temperature",
+            "PASS",
+            "56.125\u00b0C(Stable)"
+        ],
+        [
+            "CPU Stress Test",
+            "WARNING",
+            "High thermal load. Delta +30.2\u00b0C"
+        ]
+    ]
+}
